@@ -1,3 +1,5 @@
+[<img alt="Banner" width="100%" src="https://github.com/PhuCholony/PhuCholony/blob/design/banner.gif?raw=true" />](https://youtu.be/6NtECpgCNaQ?t=1183)
+
 ## Hi there 👋
 
 **PhuCholony/PhuCholony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
